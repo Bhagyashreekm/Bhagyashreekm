@@ -1,4 +1,5 @@
-[![MasterHead](https://forum.radxa.com/uploads/default/original/2X/0/0700553091f087b04779ef2444f081ad45b24dc2.gif)](https://bhagyashreekm.io)
+![logo](https://png.pngtree.com/background/20230525/original/pngtree-female-programmer-in-front-of-computer-screens-picture-image_2734159.jpg)
+
 <h1 align="center">Hi 👋, I'm Bhagyashree K M</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate frontend developer always looking to learn new technologies and improve my skills. Here's a bit about me:</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
