@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhagyashree-k-m-b8ba731b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhagyashree-k-m-b8ba731b2/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_dads_lit_princy_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_dads_lit_princy_/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@bhagyashreekm4373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bhagyashreekm4373" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@bhagyashreekm4373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bhagyashreekm4373" height="30" width="40" /></a>
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhagyashreekm&show_icons=true&locale=en&layout=compact" alt="bhagyashreekm" /></p>
