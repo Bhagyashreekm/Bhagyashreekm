@@ -9,11 +9,11 @@
 I’m a passionate developer with **2 years of experience** in Web development, specializing in: 
 - 🔭 I’m currently working on **Client Magazine Websites**
 
-- Building **dynamic and responsive web applications**.  
+- ⚡ Building **dynamic and responsive web applications**.  
 
-- Crafting seamless **API integrations**.  
+- 🔗 Crafting seamless **API integrations**.  
 
-- Developing scalable backend systems using **PHP & MySQL**.
+- 💾 Developing scalable backend systems using **PHP & MySQL**.
 
 - 🌱 I’m currently learning **Laravel and React Js**
 
